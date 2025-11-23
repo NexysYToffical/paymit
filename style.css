@@ -1,0 +1,46 @@
+body {
+    font-size: 13px;
+    font-weight: 600;
+ background-image: linear-gradient(to bottom, #000000, #2f2838);
+  color: white;
+  font-family: 'Roboto', 'Arial', sans-serif;
+}
+p {
+    
+    font-size: 20px;
+    font-weight: 100;
+    display: inline;
+}
+b {
+    font-size: 20px;
+    font-weight: 300;
+}
+h1 {
+    font-size: 30px;
+    font-weight: 400;
+}
+hr {
+  border: none;
+  height: 1px;
+  background-color: rgba(100, 100, 100, 0.3); 
+}
+account {
+    font-size: 20px;
+    font-weight: 200;
+    text-align: left;
+}
+h2 {
+    font-size: 25px;
+    font-weight: 400;
+}
+h3 {
+    font-size: 20px;
+    font-weight: 400;
+}
+msg {
+    
+    font-size: 20px;
+    font-weight: 100;
+    display: inline;
+    background-image: linear-gradient(to bottom, #000000, #7f2838);
+}
